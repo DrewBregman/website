@@ -1,6 +1,6 @@
 ## Mechanisms of Economic Booms & Busts
 
-The amount of wealth being generated is unimaginable, and technology is improving faster than it ever has. But I don't know what drives our economy to prosperity or what drives it to recession. I hear about inflation rates, productivity, times of war, times of peace, global trade, oil prices, and co. but I have no idea how it all connects or how to create the right mental model.
+The amount of wealth being generated is unimaginable, and technology is improving faster than it ever has. But I don't know what drives our economy to prosperity or what would drive it to recession. I hear about inflation rates, productivity, times of war, times of peace, global trade, and oil prices, but I don't know how it all connects or the right mental model to evaluate our economy.
 
 1. What drives economic prosperity?
 2. What role does productivity play?
