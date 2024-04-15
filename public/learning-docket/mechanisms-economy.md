@@ -1,17 +1,13 @@
 ## Mechanisms of Economic Booms & Busts
 
-The health of the US economy is a complex and dynamic system, constantly in flux. Understanding the factors that contribute to economic prosperity and recessions empowers individuals and policymakers alike to navigate these fluctuations. This post delves deeper into key indicators and influences shaping the US economic landscape.
+The amount of wealth being generated is unimaginable, and technology is improving faster than it ever has. But I don't know what drives our economy to prosperity or what drives it to recession. I hear about inflation rates, productivity, times of war, times of peace, global trade, oil prices, and co. but I have no idea how it all connects or how to create the right mental model.
 
-1. Employment: A robust job market serves as the bedrock of a thriving economy. When businesses are expanding and creating jobs, consumer confidence surges. This translates to increased spending, fueling economic growth. Conversely, high unemployment rates signify economic stagnation, often triggering a downward spiral as consumer spending declines.
 
-2. Consumer Spending: Consumer spending is the lifeblood of the US economy. Individuals act as the primary economic engine, and their spending habits significantly impact overall economic activity. When people feel financially secure and confident about their job prospects, they are more likely to spend money on goods and services. This increased spending fuels business growth, job creation, and ultimately, economic expansion. A sustained decline in consumer spending often precedes economic downturns, serving as a crucial early warning sign.
+## How I'm Learning
 
-3. Interest Rates: The Federal Reserve, the central bank of the United States, plays a significant role in influencing economic activity through its manipulation of interest rates. Lowering interest rates incentivizes borrowing, making it cheaper for businesses to invest in expansion and individuals to purchase homes and cars. This increased borrowing and investment activity stimulates economic growth. Conversely, raising interest rates discourages borrowing, potentially leading to a slowdown in economic activity as businesses and individuals become more cautious about taking on debt. The Federal Reserve carefully calibrates interest rates to maintain a balance between fostering economic growth and controlling inflation.
-
-4. Energy Costs: Energy is a critical input for both businesses and households. Fluctuations in energy prices can have a profound impact on the overall health of the economy. When energy costs are high, businesses face increased production costs, potentially leading to higher prices for consumers. Additionally, high energy bills can strain household budgets, reducing disposable income and ultimately leading to decreased consumer spending. Conversely, stable or declining energy prices can benefit businesses and consumers alike, stimulating economic activity.
-
-5. Global Economic Conditions: The US economy is not an isolated entity. It is intricately linked to the global economic landscape. A slowdown or recession in a major trading partner can have ripple effects on the US economy, impacting exports, foreign investment, and overall economic activity. Conversely, a strong global economy can benefit the US by increasing demand for US exports and attracting foreign investment.
-
-By closely monitoring these key indicators and influences, policymakers can develop proactive economic policies. These policies might include measures to stimulate job creation, promote consumer confidence, maintain stable interest rates, and ensure access to affordable energy. Additionally, individuals can leverage this knowledge to make informed financial decisions that align with the current economic climate.
-
-Understanding the complex interplay between these factors empowers us to navigate the ever-changing economic landscape and make informed decisions that contribute to a more stable and prosperous future.
+* [The Paradox of Debt](https://www.tychosgroup.org/paradoxofdebt)
+* [Superwise Blog](https://superwise.ai/blog/ml-vs-llm-is-one-better-than-the-other/)
+* [The History of Debt](https://www.youtube.com/watch?v=AAbVbanz4LE)
+* [Is the US Economy in Trouble](https://www.youtube.com/watch?v=XKTmY3QJnx4)
+* [Are Banks in Trouble](https://www.youtube.com/watch?v=_ku-Z3h0sB8)
+* [Long Term Interest Rate Trends](https://www.tychosgroup.org/reports)

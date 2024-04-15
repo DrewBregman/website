@@ -1,11 +1,13 @@
 # Me and the Machine, Learning
 
-This is the first time I'm writing about what I plan to learn. 
+Generally speaking, I know machine learning is a subset of AI. And I know that machine learning mostly uses supervised learning, unsupervised learning, reinforcement learning, and deep learning to create statistical models and algorithms around patterns in data. But, I don't really understand any of it. 
+ 
+ - How does each learning method work?
+ - How do you pick which method to use?
+ - How are LLMs built?
 
-## What is AI?
-Artificial Intelligence, or AI, involves creating computer systems that can perform tasks that typically require human intelligence. These tasks include speech recognition, decision-making, visual perception, and language translation.
 
-## What is Machine Learning?
-Machine Learning is a subset of AI that provides systems the ability to automatically learn and improve from experience without being explicitly programmed. This is achieved through algorithms that adapt and learn from patterns of data.
+## How I'm Learning
 
-I hope you find this overview intriguing and come back for more in-depth discussions!
+* [Co-Intelligence, by Ethan Mollick](https://www.penguinrandomhouse.com/books/741805/co-intelligence-by-ethan-mollick/)
+* [Superwise Blog](https://superwise.ai/blog/ml-vs-llm-is-one-better-than-the-other/)
