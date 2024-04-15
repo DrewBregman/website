@@ -41,25 +41,6 @@ h2 {
     letter-spacing: 1px;
 }
 
-ul {
-    list-style: none;
-    padding: 0;
-}
-
-ul li {
-    padding: 10px 0;
-}
-
-ul li a {
-    color: #0077cc;
-    text-decoration: none;
-    font-weight: bold;
-}
-
-ul li a:hover {
-    text-decoration: underline;
-}
-
 /* Post Content Styles */
 article {
     padding: 20px;
@@ -93,11 +74,6 @@ article {
 /* Footer Styles */
 footer p {
     font-size: 14px;
-}
-
-/* Link Styles */
-a {
-    color: #0077cc;
 }
 
 a:hover {
