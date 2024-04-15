@@ -1,0 +1,137 @@
+/* Base Styles */
+body {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    line-height: 1.6;
+    margin: 20px auto;
+    max-width: 800px;
+    color: #333;
+    background: #fff;
+    padding: 0 10px; /* Added padding for a little space on smaller screens */
+}
+
+/* Header and Footer Styles */
+header, footer {
+    text-align: left;
+    padding: 20px 10px; /* Adjusted padding for smaller screens */
+    color: #666;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 24px; /* Will adjust in media query for smaller screens */
+    color: #333;
+}
+
+p {
+    font-size: 16px; /* Will adjust in media query for smaller screens */
+    color: #666;
+}
+
+/* Blog Section Styles */
+section {
+    margin-top: 20px; /* Adjusted for smaller screens */
+    border-top: 2px solid #eee;
+    padding-top: 20px;
+}
+
+h2 {
+    font-size: 20px; /* Will adjust in media query for smaller screens */
+    color: #333;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+ul li {
+    padding: 10px 0;
+}
+
+ul li a {
+    color: #0077cc;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+ul li a:hover {
+    text-decoration: underline;
+}
+
+/* Post Content Styles */
+article {
+    padding: 20px;
+    border: 1px solid #eee;
+    background: #f9f9f9;
+    margin-top: 20px;
+}
+
+.post-content {
+    display: none; /* Ensures it's hidden initially */
+    position: relative; /* Necessary for absolute positioning of children */
+    background: #fff;
+    margin-top: 20px;
+    padding: 20px;
+    border: 1px solid #eee;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.close-btn {
+    position: absolute;
+    top: 10px; /* Adjust as needed */
+    right: 10px; /* Adjust as needed */
+    cursor: pointer;
+    font-size: 24px;
+    font-weight: bold;
+    color: #333; /* Ensure it's visible, adjust color as needed */
+}
+
+
+/* Footer Styles */
+footer p {
+    font-size: 14px;
+}
+
+/* Link Styles */
+a {
+    color: #0077cc;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Utility Classes */
+.clearfix::after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+/* Responsive Styles */
+@media (max-width: 600px) {
+    body {
+        margin: 20px 10px;
+        padding: 0;
+    }
+
+    header h1, p, h2, footer p, ul li a {
+        font-size: 90%; /* Slightly smaller font-size on smaller screens */
+    }
+
+    section, article {
+        padding: 15px; /* Smaller padding on smaller screens */
+    }
+
+    header, footer {
+        padding: 15px 10px;
+    }
+
+    /* Ensures that the container takes full width on smaller screens */
+    body {
+        max-width: 100%;
+    }
+}
