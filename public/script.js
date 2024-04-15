@@ -34,3 +34,47 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     });
 });
+
+
+function glitchText() {
+    const elements = document.querySelectorAll('.glitch');
+    const overlay = document.createElement('div');
+    overlay.className = 'hacker-effect';
+    document.body.appendChild(overlay);
+
+    elements.forEach(element => {
+        const cloned = element.cloneNode(true);
+        overlay.appendChild(cloned);
+    });
+
+    overlay.classList.add('active');
+
+    let maxDuration = 1000;
+    let elapsed = 0;
+    const interval = 25;   
+
+    const glitchInterval = setInterval(() => {
+        if (elapsed >= maxDuration) {
+            clearInterval(glitchInterval);
+            overlay.classList.remove('active');  
+            overlay.remove();  
+        } else {
+            document.querySelectorAll('.hacker-effect .glitch').forEach((element, index) => {
+                if (Math.random() < 0.5) { 
+                    let glitchedText = elements[index].innerText
+                        .split('')
+                        .map(char => Math.random() < 0.8 ? randomChar() : char)
+                        .join('');
+                    element.innerText = glitchedText;
+                }
+            });
+            elapsed += interval;
+        }
+    }, interval);
+}
+
+function randomChar() {
+    return String.fromCharCode(33 + Math.floor(Math.random() * 94));
+}
+
+document.addEventListener('DOMContentLoaded', glitchText);

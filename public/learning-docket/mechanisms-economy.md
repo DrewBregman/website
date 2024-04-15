@@ -1,4 +1,4 @@
-## US Economic Fluctuations: A Deeper Dive into Key Indicators and Influences
+## Mechanisms of Economic Booms & Busts
 
 The health of the US economy is a complex and dynamic system, constantly in flux. Understanding the factors that contribute to economic prosperity and recessions empowers individuals and policymakers alike to navigate these fluctuations. This post delves deeper into key indicators and influences shaping the US economic landscape.
 
